@@ -1,1 +1,1 @@
-PyWit and Messenger bot tutorial for CNY Codejam.
+Simple PyWit and Messenger bot tutorial for CNY Codejam.
